@@ -1,9 +1,9 @@
-# oss-audit-24bai10860
+# oss-audit-24bsa10084
 # Open Source Audit Project
 
 ## Student Details
-Name: Prateek kumar kuntal
-Roll Number: 24bai10860 
+Name: vinit sankhla
+Roll Number: 24bsa10084
 
 ## Chosen Software
 Git
